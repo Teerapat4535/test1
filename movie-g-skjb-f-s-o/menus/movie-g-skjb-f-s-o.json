@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle movie-g-skjb-f-s-o",
+        "command": "movie-g-skjb-f-s-o:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "movie-g-skjb-f-s-o",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "movie-g-skjb-f-s-o:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

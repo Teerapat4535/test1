@@ -1,0 +1,18 @@
+{
+  "name": "movie-g-skjb-f-s-o",
+  "main": "./lib/movie-g-skjb-f-s-o",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "movie-g-skjb-f-s-o:toggle"
+  },
+  "repository": "https://github.com/Teerapat4535/movie-g-skjb-f-s-o",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
